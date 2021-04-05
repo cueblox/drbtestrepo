@@ -1,0 +1,1 @@
+{"namespace":"schemas.you.com","versions":["v1"],"version_schemas":{"v1":{"name":"v1","namespace":"schemas.you.com/v1","schemas":[{"Namespace":"schemas.you.com/v1","Name":"schema.cue"}]}}}
